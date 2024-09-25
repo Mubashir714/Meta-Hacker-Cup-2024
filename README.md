@@ -1,4 +1,4 @@
-**Meta Hacker Cup 2024 Practice Questions. **
+**Meta Hacker Cup 2024 Practice Questions.**
 
 **What is Meta Hacer Cup?**
 
